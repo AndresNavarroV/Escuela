@@ -1,0 +1,16 @@
+[
+  {
+    "cloudName": "AzureCloud",
+    "homeTenantId": "efc00b8d-6886-418a-a44a-d08998ba4a33",
+    "id": "1fdb5534-71a7-4033-9e73-bb43e11fda8c",
+    "isDefault": true,
+    "managedByTenants": [],
+    "name": "Azure for Students",
+    "state": "Enabled",
+    "tenantId": "efc00b8d-6886-418a-a44a-d08998ba4a33",
+    "user": {
+      "name": "edin.ramirez0523@alumno.udg.mx",
+      "type": "user"
+    }
+  }
+]
